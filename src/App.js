@@ -13,12 +13,12 @@ const items = [
     content: 'React is a front end library based on JavaScript'
   },
   {
-    title: 'What use React?',
+    title: 'Why use React?',
     content: 'React is increasingly popular and will get you a job!'
   },
   {
     title: 'How do you use React?',
-    content: 'We use Reat by creating components and updating their state'
+    content: 'We use React by creating components and updating their state'
   }
 ]
 
